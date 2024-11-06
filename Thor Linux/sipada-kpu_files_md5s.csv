@@ -1,0 +1,8 @@
+c35b9a54d9c3a49345407f4b47ab4092,/home/admininfra/thor10.7lite-linux-pack/sipada-kpu_thor_2024-10-30_0706.html,94
+b94ef23fc8ed0fd39caa9e20804d0ff0,/home/admininfra/thor10.7lite-linux-pack/tools/upx,52
+5829b380a95cbd493dada1b86794ef02,/home/ca-bssn3/thor/Thor Linux/custom-signatures/iocs/templates/c2-iocs.txt,80
+cf78fb3d3be7de145765169af8a0ad92,/home/ca-bssn3/thor/Thor Linux/custom-signatures/iocs/templates/filename-iocs.txt,91
+9095861e172b94e006159fce71a584f9,/home/ca-bssn3/thor/Thor Linux/custom-signatures/iocs/templates/hash-iocs.txt,88
+7399b4d3b8a1e2b0e549027cc6f49bf3,/home/ca-bssn3/thor/Thor Linux/custom-signatures/iocs/templates/keywords.txt,84
+2f54d3995a5a1f043a0f4c4481e6ed51,/home/ca-bssn3/thor/Thor Linux/custom-signatures/yara/APT Volt Typhoon.txt,84
+ce228ff4d67903427a51f5d3a445c6a7,/home/ca-bssn3/thor/Thor Linux/custom-signatures/yara/malwarestealer_risepro.txt,75
